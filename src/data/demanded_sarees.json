@@ -1,0 +1,174 @@
+[
+    {
+      "id": 1,
+      "name": "Redolent Beige Pashmina Saree With Embrocation Blouse Piece",
+      "discount":"%20",
+      "before_discount":"3999",
+      "price": "1999",
+      "image": "/demanded/2.png",
+      "rating":4
+    },
+    {
+      "id": 2,
+      "name": "Scrupulous Off White Pashmina Saree With Evocative Blouse Piece",
+      "discount":"%25",
+      "before_discount":"4299",
+      "price": "3200",
+      "image": "/demanded/3.png",
+      "rating":4
+    },
+    {
+      "id": 3,
+      "name": "Panache Yellow Pashmina Saree With Glamorous Blouse Piece",
+      "discount":"%30",
+      "before_discount":"4500",
+      "price": "2299",
+      "image": "/demanded/4.png",
+      "rating":4
+    },
+    {
+      "id": 4,
+      "name": "Tempting Red Pashmina Saree With Elaborate Blouse Piece",
+      "discount":"%15",
+      "before_discount":"4299",
+      "price": "3200",
+      "image": "/demanded/5.png",
+      "rating":4
+    },
+    {
+      "id": 5,
+      "name": "Glamorous Beige Pashmina Saree With Pulsating Blouse Piece",
+      "discount":"%25",
+      "before_discount":"3599",
+      "price": "1900",
+      "image": "/demanded/6.png",
+      "rating":4
+    },
+    {
+      "id": 6,
+      "name": "Susurrous Beige Pashmina Saree With Phenomenal Blouse Piece",
+      "discount":"%15",
+      "before_discount":"4299",
+      "price": "3200",
+      "image": "/demanded/7.png",
+      "rating":3
+    },
+    {
+      "id": 7,
+      "name": "Ethereal Yellow Pashmina Saree With Innovative Blouse Piece",
+      "discount":"%25",
+      "before_discount":"3599",
+      "price": "1900",
+      "image": "/demanded/8.png",
+      "rating":3
+    },
+    {
+      "id": 8,
+      "name": "Diaphanous Orange Pashmina Saree With Lagniappe Blouse Piece",
+      "discount":"%25",
+      "before_discount":"3599",
+      "price": "1900",
+      "image": "/demanded/9.png",
+      "rating":5
+    },
+    {
+      "id": 9,
+      "name": "Surreptitious Beige Pashmina saree With Panoply Blouse Piece",
+      "discount":"%35",
+      "before_discount":"4999",
+      "price": "2299",
+      "image": "/demanded/10.png",
+      "rating":5
+    },
+    {
+      "id": 10,
+      "name": "Entrancing Purple Pashmina Saree With Beleaguer Blouse Piece",
+      "discount":"%20",
+      "before_discount":"3599",
+      "price": "2999",
+      "image": "/demanded/11.png",
+      "rating":4
+    },
+    {
+      "id": 12,
+      "name": "Entrancing Purple Pashmina Saree With Beleaguer Blouse Piece",
+      "discount":"%25",
+      "before_discount":"3799",
+      "price": "3499",
+      "image": "/demanded/12.png",
+      "rating":4
+    },
+    {
+      "id": 13,
+      "name": "Entrancing Purple Pashmina Saree With Beleaguer Blouse Piece",
+      "discount":"%25",
+      "before_discount":"2599",
+      "price": "1500",
+      "image": "/demanded/13.png",
+      "rating":4
+    },
+    {
+      "id": 14,
+      "name": "Entrancing Purple Pashmina Saree With Beleaguer Blouse Piece",
+      "discount":"%25",
+      "before_discount":"3799",
+      "price": "3499",
+      "image": "/demanded/14.png",
+      "rating":4
+    },
+    {
+      "id": 15,
+      "name": "Entrancing Purple Pashmina Saree With Beleaguer Blouse Piece",
+      "discount":"%25",
+      "before_discount":"3799",
+      "price": "3499",
+      "image": "/demanded/15.png",
+      "rating":4
+    },
+    {
+      "id": 16,
+      "name": "Entrancing Purple Pashmina Saree With Beleaguer Blouse Piece",
+      "discount":"%20",
+      "before_discount":"3299",
+      "price": "2199",
+      "image": "/demanded/16.png",
+      "rating":4
+    },
+    {
+      "id": 17,
+      "name": "Entrancing Purple Pashmina Saree With Beleaguer Blouse Piece",
+      "discount":"%25",
+      "before_discount":"3799",
+      "price": "3499",
+      "image": "/demanded/17.png",
+      "rating":4
+    },
+    {
+      "id": 18,
+      "name": "Entrancing Purple Pashmina Saree With Beleaguer Blouse Piece",
+      "discount":"%35",
+      "before_discount":"4999",
+      "price": "3599",
+      "image": "/demanded/18.png",
+      "rating":4
+    },
+    {
+      "id": 19,
+      "name": "Entrancing Purple Pashmina Saree With Beleaguer Blouse Piece",
+      "discount":"%30",
+      "before_discount":"3199",
+      "price": "2199",
+      "image": "/demanded/19.png",
+      "rating":4
+    },
+    {
+      "id": 20,
+      "name": "Entrancing Purple Pashmina Saree With Beleaguer Blouse Piece",
+      "discount":"%15",
+      "before_discount":"2599",
+      "price": "1599",
+      "image": "/demanded/20.png",
+      "rating":4
+    }
+  ]
+  

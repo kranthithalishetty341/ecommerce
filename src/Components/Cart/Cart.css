@@ -1,0 +1,17 @@
+.cart-img {
+    width: 60px;
+    height: 100px;
+    object-fit: cover;
+}
+.display-flex{
+    display: flex;
+    gap: 20px;
+}
+
+.cart-box {
+    display: flex;
+    gap: 120px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,13 @@
+.footer{
+    margin-top: auto;
+}
+.footer-details{
+    background: #2b2a2a;
+    color: white;
+    padding: 20px;
+}
+.footer-company{
+    background: #000000eb;
+    color: white;
+    padding: 12px;
+}

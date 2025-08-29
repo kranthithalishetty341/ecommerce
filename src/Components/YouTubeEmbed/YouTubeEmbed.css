@@ -1,0 +1,32 @@
+.video-gallery {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .video-row {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .video-container {
+    width: 300px;
+    position: relative;
+  }
+  
+  iframe {
+    width: 100%;
+    height: 200px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .fallback-link {
+    display: block;
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  

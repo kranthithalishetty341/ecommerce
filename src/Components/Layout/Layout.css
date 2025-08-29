@@ -1,0 +1,126 @@
+.sections-title {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.category-name {
+    font-family: cursive;
+    margin-top: 8px;
+}
+
+
+.catergory-name{
+    padding: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.demanded-saree {
+    width: 100%;
+    height: 450px;
+}
+
+.demanded-section {
+    padding: 20px 20px 0px 20px;
+}
+
+.before-discount {
+    text-decoration: line-through;
+    margin-bottom: 0px;
+}
+
+.saree-name {
+    font-weight: bold;
+    font-size: 15px;
+}
+.viewall-btn{
+    background: #5c0000 !important;
+}
+
+.discount {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 5px;
+    background: red;
+    padding: 0px 10px;
+    border-radius: 5px;
+    color: white;
+}
+.cart-img-box{
+    position: relative;
+    cursor: pointer;
+}
+.cart-img-box:hover .overlay {
+    opacity: 1;
+  }
+
+  .cart-img-box:hover .overlay_heart {
+    opacity: 1;
+  }
+
+  .favorite-icon{
+    font-size: 40px !important;
+  }
+.overlay_heart {
+    position: absolute;
+    top: 12px;
+    /* left: -20px; */
+    /* width: 100%; */
+    /* height: 100%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: end;
+    gap: 10px;
+    /* background: rgba(0,0,0,0.4); */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    /* bottom: 100px; */
+    color: white;
+    right: 25px;
+  }
+
+  .overlay {
+    position: absolute;
+    /* top: 0; */
+    /* left: 0; */
+    /* width: 100%; */
+    /* height: 100%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+    /* background: rgba(0,0,0,0.4); */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    bottom: 100px;
+    right: 25px;
+  }
+  
+  .saree-card:hover .overlay {
+    opacity: 1;
+  }
+  
+  .add-to-cart-btn {
+    background-color: white !important;
+    color: #5c0000 !important;
+    /* border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold; */
+    /* transition: background-color 0.3s ease; */
+  }
+  
+  .add-to-cart-btn:hover {
+    background-color: #5c0000 !important;
+    color: white !important;
+  }
+
+
+/* =========================== */
+
+  

@@ -1,0 +1,25 @@
+.sticky-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #f0f0f0;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    z-index: 1000;
+    padding: 0;
+    /* display: flex; */
+  }
+  .logo{
+    height: 45px;
+    width: 150px;
+  }
+  .header-category{
+    margin: 15px;
+  }
+  .header-category-texts{
+    padding-top: 8px;
+  }
+  .header-icons{
+    margin: 8px;
+    float: right;
+  }
