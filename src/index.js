@@ -9,7 +9,7 @@ import Contact from './Components/Contact/Contact';
 import About from './Components/About/About';
 import Error from './Components/Error/Error';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import DemandedList from './Components/DemandedList/DemandedList';
 import Cart from './Components/Cart/Cart';
@@ -19,12 +19,12 @@ const appRoutes = createBrowserRouter([
   {
     path: '/',
     element: <App />,
-    errorElement: <Error/>,
-    children:[
+    errorElement: <Error />,
+    children: [
       {
-        path:'/',
-        element:<Layout/>
-      },      
+        path: '/',
+        element: <Layout />
+      },
       {
         path: '/ContactUs',
         element: <Contact />
@@ -34,17 +34,20 @@ const appRoutes = createBrowserRouter([
         element: <About />
       },
       {
-        path:'/demandedList',
-        element: <DemandedList/>
+        path: '/demandedList',
+        element: <DemandedList />
       },
       {
-        path:'/cart',
-        element: <Cart/>
+        path: '/cart',
+        element: <Cart />
       }
     ]
   },
- 
-])
+],
+  {
+    basename: '/ecommerce' 
+  }
+)
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <RouterProvider router={appRoutes} />
