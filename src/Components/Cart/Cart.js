@@ -45,7 +45,7 @@ const Cart = () => {
                                     <tr key={res.id}>
                                         <td>
                                             <div className="display-flex">
-                                                <img src={res.image} className="cart-img" />
+                                                <img src={`${process.env.PUBLIC_URL}/${res.image}`} className="cart-img" />
                                                 <span>
                                                     {res.name}
                                                 </span>

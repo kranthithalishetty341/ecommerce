@@ -20,11 +20,11 @@ const ImageCarousel = () => {
         '/carousel5.jpg',
     ];
     return (
-        <div style={{ width: '100%', overflow: 'hidden'  }}>
+        <div style={{ width: '100%', overflow: 'hidden' }}>
             <Slider {...settings}>
                 {images.map((src, index) => (
                     <div key={index}>
-                        <img src={src} alt={`Saree ${index + 1}`} style={{ width: '100%', height: '580px'  }} />
+                        <img src={`${process.env.PUBLIC_URL}/${src}`} alt={`Saree ${index + 1}`} style={{ width: '100%', height: '580px' }} />
                     </div>
                 ))}
             </Slider>

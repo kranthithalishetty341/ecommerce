@@ -14,7 +14,7 @@ const Category = () => {
             {catergoryList.map((ele, key) => (
                 <Col md={3} key={key}>
                     <div className="category-card catergory-image">
-                        <img src={ele.image} className="category-saree" alt={ele.name} />
+                        <img src={`${process.env.PUBLIC_URL}/${ele.image}`} className="category-saree" alt={ele.name} />
                         <div className="overlay-effect"></div>
                         <p className="category-name">{ele.name}</p>
                     </div>

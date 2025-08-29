@@ -31,7 +31,7 @@ const Header = () => {
             <Row>
                 <Col md={3}>
                     {/* <span>Srivani Saree</span> */}
-                    <img src="/logo_white.jpg" alt="Logo" className="logo" />
+                    <img src={`${process.env.PUBLIC_URL}/logo_white.jpg`} alt="Logo" className="logo" />
                     {/* <img src="/srivani_logo.png" alt="Logo" className="logo"/> */}
                     {/* <img src="https://laxmipati.com/cdn/shop/files/09_1.png?v=1753728997&width=240" /> */}
                 </Col>

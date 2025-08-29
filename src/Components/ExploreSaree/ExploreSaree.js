@@ -9,7 +9,7 @@ const ExploreSaree = () => {
                 exploreList.map((ele, key) => (
                     <Col md={2} key={key}>
                         <div className="image-gallery">
-                            <img src={ele.img} />
+                            <img src={`${process.env.PUBLIC_URL}/${ele.img}`} />
                             <p className="category-name">{ele.name}</p>
                         </div>
                     </Col>

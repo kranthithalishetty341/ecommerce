@@ -58,7 +58,7 @@ const DemandedList = ({filtered, parentData, setTitleCallBack}) => {
                                 <span className="discount">
                                     {saree.discount}
                                 </span>
-                                <img src={saree.image} className="demanded-saree" />
+                                <img src={`${process.env.PUBLIC_URL}/${saree.image}`} className="demanded-saree" />
                                 <div className="overlay_heart">
                                     <FavoriteBorderIcon className="favorite-icon" />
                                 </div>
